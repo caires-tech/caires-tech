@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/caires-tech/caires-tech/blob/main/fundo%20github.png?raw=true" 
        alt="caires-tech banner" 
-       style="max-width: 800px; width: 100%; height: auto;" />
+       style="height: 341px; width: auto;" />
 </p>
 
 # 👋 Olá, eu sou o Rodrigo Caires
