@@ -1,3 +1,7 @@
+<p align="center">
+https://github.com/caires-tech/caires-tech/blob/main/fundo%20github.png?raw=true
+</p>
+
 # 👋 Olá, eu sou o Rodrigo Caires
 
 💼 **Profissional com mais de 20 anos de experiência** na área administrativa e financeira, atualmente em transição para a área de tecnologia.  Sou formado em ciências da computação e apaixonado por tecnologia.
