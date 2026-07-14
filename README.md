@@ -45,7 +45,7 @@
 
 ## 🌐 Onde me encontrar
 
-📫 **LinkedIn:** https://www.linkedin.com/in/rodrigo-c-285214156  
+📫 **LinkedIn:** https://www.linkedin.com/in/rodrigo-caires  
 🐙 **GitHub:** https://github.com/caires-tech  
 
 ---
