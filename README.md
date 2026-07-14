@@ -15,8 +15,8 @@
 ## 🚀 Sobre mim
 
 - 💼 Experiência sólida em **gestão, processos e área financeira**  
-- 💻 Transição para tecnologia focada em **desenvolvimento web e automação**  
-- 📚 Estudando: **Python, HTML, CSS, JavaScript, Git/GitHub**  
+- 💻 União com tecnologia focada em **desenvolvimento web e automação**  
+- 📚 Estudando: **Python, HTML, CSS, JavaScript, Git/GitHub, Ciência de Dados**  
 - 🎯 Em breve: **React, Angular, Spring Boot, Quarkus, SQL, Scrum, Kanban e muito mais**
 
 ---
