@@ -6,8 +6,8 @@
 <h1 align="center">👋 Olá, eu sou o Rodrigo Caires</h1>
 
 <p align="center">
-  Profissional com mais de 20 anos nas áreas administrativa e financeira — agora em transição para a tecnologia.<br/>
-  Formado em Ciências da Computação, apaixonado por código, automação e soluções práticas.
+  Profissional com mais de 24 anos nas áreas administrativa e financeira, agora unindo a experiência com a tecnologia.<br/>
+  Formado em Ciências da Computação, estudante contínuo, amante de códigos, automação e soluções práticas e objetivas.
 </p>
 
 ---
